@@ -1,1 +1,1 @@
-# sparql2llm
+# SPARQL2LLM
